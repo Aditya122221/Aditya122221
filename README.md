@@ -13,7 +13,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/Aditya122221">
   <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya122221&" alt="aditya122221" />
   <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya122221&layout=compact&langs_count=8&theme=light"/>
