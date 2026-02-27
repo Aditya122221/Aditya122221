@@ -4,11 +4,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya122221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya122221" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya_2024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_2024" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/tlesnipper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tlesnipper" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/adityakumtod9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityakumtod9" height="30" width="40" /></a>
-<a href="https://instagram.com/demonsiren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demonsiren" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aditya122221" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya122221" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aditya_2024" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya_2024" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/tlesnipper" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="tlesnipper" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/adityakumtod9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="adityakumtod9" height="30" width="40" /></a>
+<a href="https://instagram.com/demonsiren" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="demonsiren" height="30" width="40" /></a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
