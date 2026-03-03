@@ -18,3 +18,5 @@
   <img width="400em" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aditya122221&layout=compact&langs_count=8&theme=light"/>
 </a>
 </p>
+
+<a href=#><img src="githubgraph.svg"></a>
